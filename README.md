@@ -1,8 +1,7 @@
 
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:E2725B,50:C96A4A,100:172554&text=PROCHETA%20SILVIE&fontColor=FFFFFF&fontSize=46&fontAlignY=40&animation=blinking" width="100%" alt="Animated terracotta banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:A64B2A,35:C96A4A,70:E2725B,100:D98C73&text=Procheta%20Silvie&fontColor=FFF8F3&fontSize=46&fontAlignY=40&fontAlign=50&animation=fadeIn" width="100%" alt="Elegant terracotta banner"/>
 
 
 <div align="center">
