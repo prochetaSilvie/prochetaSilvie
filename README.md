@@ -3,6 +3,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B1F,40:172554,75:512DA8,100:00D9FF&text=PROCHETA%20SILVIE&fontColor=FFFFFF&fontSize=46&fontAlignY=40&animation=fadeIn" width="100%" alt="Neon cyberpunk banner"/>
 
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Procheta+Silvie+%E2%9C%A8;Software+Engineering+Student+%40+IUT;Java+%7C+OOP+%7C+Full-Stack+Development;Design+%7C+Writing+%7C+Arabic;Exploring+AI%2C+Cybersecurity+%26+Game+Development" alt="Animated bio"/>
+
+</div>
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+at+IUT;Java+%7C+Object-Oriented+Programming;Full-Stack+Development;Design+%7C+Writing+%7C+Arabic" alt="Animated introduction"/>
 
 <br/>
