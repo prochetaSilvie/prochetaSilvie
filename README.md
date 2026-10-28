@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=#E2725B,40:172554,75:512DA8,100:00D9FF&text=PROCHETA%20SILVIE&fontColor=FFFFFF&fontSize=46&fontAlignY=40&animation=fadeIn" width="100%" alt="Neon cyberpunk banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=E2725B,40:172554,75:512DA8,100:00D9FF&text=PROCHETA%20SILVIE&fontColor=FFFFFF&fontSize=46&fontAlignY=40&animation=fadeIn" width="100%" alt="Neon cyberpunk banner"/>
 
 
 <div align="center">
